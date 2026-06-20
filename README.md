@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=%24+whoami;Fernando+Segundo;Pentester+%7C+Backend+%7C+Networking;%3E+cat+%2Fdev%2Fskills" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=%24+whoami;Fernando+Esparza+Segundo;Pentester+%7C+Backend+%7C+Networking;%3E+cat+%2Fdev%2Fskills" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Ingeniero en Redes &bull; Scripting en Python &bull; Seguridad Ofensiva</h3>
@@ -53,9 +53,6 @@ Service Info: OS: Linux; CPE: cpe:/o:arch:arch:rolling
 <p align="center">
   <a href="https://github.com/fersegundo22">
     <img src="https://img.shields.io/badge/GitHub-fersegundo22-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:tu@email.com">
-    <img src="https://img.shields.io/badge/Email-tu@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
