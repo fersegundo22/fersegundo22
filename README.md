@@ -62,7 +62,4 @@ Service Info: OS: Linux; CPE: cpe:/o:arch:arch:rolling
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fersegundo22&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFAA&icon_color=00FFAA&text_color=FFFFFF" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fersegundo22&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00FFAA&text_color=FFFFFF" />
-</p>
+
