@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=%24+whoami;Fernando+Esparza+Segundo;Pentester+%7C+Backend+%7C+Networking;%3E+cat+%2Fdev%2Fskills" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Ingeniero en Redes &bull; Scripting en Python &bull; Seguridad Ofensiva</h3>
+<h3 align="center">Ingeniero en Telecomunicaciones &bull; Scripting en Python &bull; Seguridad Ofensiva</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fersegundo22&label=Visitas&color=0e75b6&style=flat" alt="profile views" />
