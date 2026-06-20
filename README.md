@@ -44,59 +44,7 @@ Service Info: OS: Linux; CPE: cpe:/o:arch:arch:rolling
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
----
 
-### 📂 Proyectos Destacados
-
-> **8 repositorios · 445+ tests · 0 dependencias · 100% Python**
-
-| # | Proyecto | Descripción | Tests |
-|---|----------|-------------|:----:|
-| 1 | [**cerberus-ids**](https://github.com/fersegundo22/cerberus-ids) | IDS/IPS con 100+ firmas de ataque, DPI multinivel, score de amenaza y reportes forenses | `52` |
-| 2 | [**reconx**](https://github.com/fersegundo22/reconx) | Framework OSINT: DNS enumeration raw sockets, port scan banner grabbing, WHOIS, CRT.sh, HTTP fingerprinting | `45` |
-| 3 | [**stormx**](https://github.com/fersegundo22/stormx) | Simulador DDoS educativo: 7 vectores, 8 mitigaciones, modelado de servidor víctima | `54` |
-| 4 | [**simulador-isp**](https://github.com/fersegundo22/simulador-isp) | Emulador ISP con CLI MikroTik: routers, switches VLAN, OLTs GPON, firewalls zonales, QoS | `72` |
-| 5 | [**gpon-dba**](https://github.com/fersegundo22/gpon-dba) | Algoritmo DBA de GPON (ITU-T G.984.3): SR/NSR/GIANT, tramas GTC, REPORT/GATE, métricas | `67` |
-| 6 | [**red-neuronal-numpy**](https://github.com/fersegundo22/red-neuronal-numpy) | MLP con backpropagation manual (solo NumPy), clasificación MNIST, SGD+Momentum | `57` |
-| 7 | [**toolkit-analisis-redes**](https://github.com/fersegundo22/toolkit-analisis-redes) | 18 algoritmos de grafos: Dijkstra, PageRank, flujo máximo, comunidades, centralidad | `52` |
-| 8 | [**ga-tsp**](https://github.com/fersegundo22/ga-tsp) | Algoritmo genético para el TSP: selección, cruce PMX, mutación, visualización ASCII | `46` |
-
-<details>
-<summary><b>📊 Estadísticas de cada proyecto</b></summary>
-
-```
-cerberus-ids         [████████████████] 100+ firmas · 52 tests · DPI · MITRE ATT&CK
-reconx               [███████████████░] 6 módulos · 45 tests · OSINT · raw sockets
-stormx               [███████████████░] 7 vectores · 54 tests · 8 mitigaciones
-simulador-isp        [████████████████] 5 dispositivos · 72 tests · CLI MikroTik
-gpon-dba             [███████████████░] 4 algoritmos · 67 tests · ITU-T G.984.3
-red-neuronal-numpy   [███████████████░] MLP from scratch · 57 tests · MNIST
-toolkit-analisis-redes [██████████████░] 18 algoritmos · 52 tests · teoría de grafos
-ga-tsp               [██████████████░] GA completo · 46 tests · NP-completo
-```
-
-</details>
-
----
-
-### 🧠 Aprendizaje Continuo
-
-```python
-aprendizaje = {
-    "redes": ["GPON", "MPLS", "BGP", "OSPF", "VXLAN", "EVPN"],
-    "seguridad": ["Pentesting", "Blue Team", "Forensics", "Threat Hunting"],
-    "desarrollo": ["Python", "Go", "APIs", "Microservicios", "CI/CD"],
-    "infra": ["Docker", "Kubernetes", "Terraform", "Ansible"],
-    "datos": ["NumPy", "Pandas", "SQL", "ETL"],
-}
-
-while True:
-    for area, skills in aprendizaje.items():
-        for skill in skills:
-            estudiar(skill)
-            practicar(skill)
-            proyecto_nuevo(skill)
-```
 
 ---
 
